@@ -26,10 +26,14 @@
 
 .col-1 {
   width: 32%;
+  float: left;
+  margin-left: 2%;
 }
 
 .col-2 {
   width: 64%;
+  float: left;
+  margin-left: 2%;
 }
 
 .col-3 {
@@ -39,11 +43,11 @@
   margin-bottom: 2%;
 }
 
-[class*="col-"] {
+/*[class*="col-"] {
   float: left;
   margin-left: 2%;
 
-}
+}*/
 
 .first {
   margin-left: 0%;
