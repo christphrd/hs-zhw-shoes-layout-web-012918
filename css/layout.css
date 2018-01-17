@@ -23,11 +23,6 @@
 }
 
 /* Posititoning Classes */
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
 
 .col-1 {
   float: left;
@@ -37,15 +32,6 @@
 .col-2 {
   float: left;
   width: 64%;
-}
-
-.clearfix:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  height: 0;
-  line-height: 0;
 }
 
 [class*="col-"] {
