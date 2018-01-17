@@ -43,11 +43,11 @@ section {
   padding: 20px;
 }
 
-/*[class*="col-"] {
+[class*="col-"] {
   float: left;
   margin-left: 2%;
 
-}*/
+}
 
 .first {
   margin-left: 0%;
