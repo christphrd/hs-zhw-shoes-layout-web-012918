@@ -32,13 +32,6 @@
   width: 64%;
 }
 
-.col-3 {
-  float: right;
-  width: 32%;
-  margin-left: 2%;
-  margin-bottom: 2%;
-}
-
 [class*="col-"] {
   float: left;
   margin-left: 2%;
@@ -52,4 +45,11 @@
 .row {
   margin-bottom: 2%;
   clear: both;
+}
+
+.shadow.col-3 {
+  float: right;
+  width: 32%;
+  margin-left: 2%;
+  margin-bottom: 2%;
 }
