@@ -32,10 +32,14 @@
   width: 64%;
 }
 
+.col-1:first-child {
+  margin-left: 2%
+}
+
 [class*="col-"] {
   float: left;
   margin-left: 2%;
-  
+
 }
 
 .first {
