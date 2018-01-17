@@ -318,17 +318,11 @@ footer {
 .col-1 {
   float: left;
   width: 31%;
-  background: #fff;
 }
 
 .col-2 {
   float: left;
   width: 62%;
-  background: #fff;
-}
-
-.col-3 {
-  background: #fff;
 }
 
 .clearfix:after {
