@@ -32,7 +32,7 @@
   width: 64%;
 }
 
-[class*="shadow col-1"]:first-child {
+[class*="col-"]:first-child {
   margin-left: 2%;
   margin-bottom: 5%;
 }
